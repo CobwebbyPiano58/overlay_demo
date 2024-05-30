@@ -5,5 +5,13 @@
             "translate": "_cp58.datapack.overlaydemo.description",
             "fallback": "OverlayDemo\n1.20.6"
         }
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "overlay",
+                "formats": 41
+            }
+        ]
     }
 }
