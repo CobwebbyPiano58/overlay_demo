@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "pack_format": 41,
+        "description": {
+            "translate": "_cp58.datapack.overlaydemo.description",
+            "fallback": "OverlayDemo\n1.20.6"
+        }
+    }
+}
